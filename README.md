@@ -7,7 +7,6 @@ Temas del taller.
 ## Taller  🎖
 
 ### PARTE 1 CLASIFICACIÓN
-
 #### Punto 1 Datos
     a. Dividir el conjunto de datos en entrenamiento y prueba
 #### Punto 2 Procesar
@@ -18,8 +17,7 @@ Temas del taller.
     a. Exactitud, precisión y sensibilidad
     b. BONUS -- Matriz de confusión
     c. BONUS -- Términos más importantes de cada categoría
-    
-    
+        
 ### PARTE 2 AGRUPACIÓN 
 
 #### Punto 1 
@@ -28,7 +26,6 @@ Temas del taller.
     a.Método del codo para determinar  𝐾    
 #### Punto 3: Entrenar modelo con el  𝐾  escogido
     a. BONUS -- Visualización usando PCA
-
 
 ### PARTE 3 COMPARACIÓN
 
